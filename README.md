@@ -18,5 +18,6 @@
 - **DI:** Hilt / Dagger2
 - **Network:** Retrofit/OkHttp
 - **Data:** Room, DataStore
+- **Storage:** Internal storage
 - **Прочее:** Firebase
 
