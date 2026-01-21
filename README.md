@@ -14,10 +14,11 @@
 - **Navigation:** Intents  / Jetpack Navigation  / Decompose
 - **Архитектура:** MVVM / MVI (UDF), Clean Architecture (data/domain/presentation)
 - **Android:** Service / WorkManager / BroadcastReceiver / ContentProvider 
-- **Async:** Coroutines, Flow, LiveData
+- **Async:** Kotlin Coroutines, Flow, LiveData
 - **DI:** Hilt / Dagger2
-- **Network:** Retrofit/OkHttp
+- **Network:** Retrofit / OkHttp
 - **Data:** Room, DataStore
 - **Storage:** Internal storage
-- **Прочее:** Firebase
+- **Serialization:** Kotlin Serialization
+- **Прочее:** Firebase, Figma, GitHub, Jira
 
